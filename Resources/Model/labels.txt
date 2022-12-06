@@ -1,0 +1,4 @@
+0 Nothing
+1 Tepig
+2 Totodile
+3 Bulbasaur
